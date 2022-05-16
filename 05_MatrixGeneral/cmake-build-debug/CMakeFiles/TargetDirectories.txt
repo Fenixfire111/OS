@@ -1,0 +1,3 @@
+D:/04_Programming/02_University/MCA/05_MatrixGeneral/cmake-build-debug/CMakeFiles/05_MatrixGeneral.dir
+D:/04_Programming/02_University/MCA/05_MatrixGeneral/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/04_Programming/02_University/MCA/05_MatrixGeneral/cmake-build-debug/CMakeFiles/rebuild_cache.dir
