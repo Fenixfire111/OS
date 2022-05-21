@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/04_Programming/02_University/OS/07_MatrixLin/main.cpp
+iostream
+-
+matrix.h
+D:/04_Programming/02_University/OS/07_MatrixLin/matrix.h
+chrono
+-
+
+D:/04_Programming/02_University/OS/07_MatrixLin/matrix.h
+vector
+-
+thread
+-
+cstdlib
+-
+ctime
+-
+iostream
+-
+pthread.h
+-
+
