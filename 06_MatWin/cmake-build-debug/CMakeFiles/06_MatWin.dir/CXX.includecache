@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/04_Programming/02_University/OS/06_MatWin/main.cpp
+iostream
+-
+matrix.h
+D:/04_Programming/02_University/OS/06_MatWin/matrix.h
+chrono
+-
+
+D:/04_Programming/02_University/OS/06_MatWin/matrix.h
+vector
+-
+thread
+-
+cstdlib
+-
+ctime
+-
+iostream
+-
+windows.h
+-
+

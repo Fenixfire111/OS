@@ -1,0 +1,3 @@
+D:/04_Programming/02_University/OS/06_MatWin/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/04_Programming/02_University/OS/06_MatWin/cmake-build-debug/CMakeFiles/06_MatWin.dir
+D:/04_Programming/02_University/OS/06_MatWin/cmake-build-debug/CMakeFiles/rebuild_cache.dir
